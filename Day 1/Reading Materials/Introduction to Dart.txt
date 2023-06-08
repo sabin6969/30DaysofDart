@@ -1,0 +1,21 @@
+Dart is High level, general purpose, interpreted as well as compiled and statically as well as dynamically typed programming language developed by Google and it was released in 2013.
+
+Features of Dart Language
+	1.High Level
+	2.General Purpose
+	3.Interpreted as well as compiled
+	4.Statically as well as Dynamically type
+	5.Supports OOP 
+	6.Large Community Support
+	7.JIT and AOT compilers
+
+High Level
+	Dart Language is high level language because syntax of this language are similar to English
+
+General Purpose
+	Dart is General Purpose Language because it has wide area of Application
+JIT and AOT compilers
+	JIT stands for just in time compiler. That means a program is compiled during its execution. Because of JIT hot reload and hot restart 	feautre is possible. JIT provides faster development Cycle and Changes that is made in Source code is immediately reflected in Output.
+
+	AOT stands as Ahead of Time Compiler. That means a source code is converted into machine code before execution of program.
+	This Feautre enables program's source code to be executed during its installation.

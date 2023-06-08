@@ -1,0 +1,14 @@
+Each and Every Data has its own type they might be number or character or set of characters
+
+Data Types Supported by Dart are
+	Numeric
+		1.int -->to store whole number 
+		2.BigInt -->to store whole number of large range
+		3.double -->to Store decimal or floating point number
+		4.num -->this data type is derived from int and double so it is capable to store					whole number and decimal number
+
+	String 
+		String is a collection of characters that is enclosed with single or double quote in 		dart.
+		In other ways string can also be defined as array of characters.
+	bool
+		This data type is able to store true or false
