@@ -1,0 +1,4 @@
+Constant in dart
+	Constant is an entity whose value remains unchanged through out the program
+
+We can declare constant in dart by using const keyword

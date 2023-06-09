@@ -1,0 +1,9 @@
+TypeCasting is the process of converting one form of data into another form
+
+We can convert String into int using int.parse() method
+
+We can convert String into double using double.parse() method
+
+We can other datatype into Strinb by using .toString() method
+
+The datatype of user input data is always in string 
