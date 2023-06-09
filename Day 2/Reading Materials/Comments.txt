@@ -1,1 +1,11 @@
+Comments in dart
+	Comment is a part of a program which is not going to be executed 
+	Comments in programming is used for explaining the code and to provide a documentation
 
+There are two types of comments in dart
+	1.Single line comment // this is single line comment
+	2.Muli line comment
+	/* 
+		This is multi line 
+		comment
+	*/
