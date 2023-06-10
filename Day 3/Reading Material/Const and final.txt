@@ -1,0 +1,2 @@
+const and final are the keywords that is used to declare the constant variable.
+	Difference is in const we have to declare datatype but incase of final we shouldnot declare datatype.

@@ -1,0 +1,3 @@
+Both var and dynamic keywords are used to declare variable without declaring it data type.
+	Once we initalize the variable created using var keyword its datatype gets fixed or locked.
+	But in case of dynamic we can assign any data type at any time.

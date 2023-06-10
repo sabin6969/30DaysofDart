@@ -1,0 +1,1 @@
+Dead Code is the term give to a code that is unreachable or never gets executed.
