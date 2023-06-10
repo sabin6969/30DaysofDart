@@ -1,1 +1,18 @@
+Simple if else
+	if(condition){
+	
+	}
+	else{
 
+	}
+if else ladder
+	if(condition){
+
+	}
+	else if(condition2)
+	{
+
+	}
+	else{
+
+	}
