@@ -1,1 +1,11 @@
+Loops are those which is used to repeat the block of a code until given condition is true.
 
+There are mainly two types of loops:
+	Entry Control Loop
+	Exit Control Loop
+
+Entry Control Loop are those loops in which condition is checked before entering the body.
+for example (for,while)
+
+Exit Control loops are those loops in which condition is checked after executing the code written in body
+for example (do while)
