@@ -1,1 +1,6 @@
+Jump statements are those which interrputs the normal flow of a program
 
+break and continue are the jump statements 
+
+break is used to terminate a loop or a switch case expression.
+continue is to skip the current iteration in a loop.
