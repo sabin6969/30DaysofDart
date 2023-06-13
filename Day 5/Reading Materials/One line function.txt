@@ -1,0 +1,4 @@
+If a function has only one expression in it's body we can use one line function 
+
+syntax
+	return_type function_name(parameter lists)=> expression to be returned;

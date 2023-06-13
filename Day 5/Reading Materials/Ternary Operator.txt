@@ -1,0 +1,4 @@
+Ternary Operator is also known as short hand if else statement
+
+Syntax 
+	condition?expression(if true):expression(if false);
